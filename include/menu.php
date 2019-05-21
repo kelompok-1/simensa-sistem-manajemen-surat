@@ -25,7 +25,7 @@
                             if(!empty($data['alamat'])){
                                 echo '<p class="description-side">'.$data['alamat'].'</p>';
                             } else {
-                                echo '<p class="description-side">Jalan Raya Banaran Kelurahan Sekaran</p>';
+                                echo '<p class="description-side">Jl. Taman Siswa No. 105 Banaran, Semarang</p>';
                             }
                         }
                     ?>
