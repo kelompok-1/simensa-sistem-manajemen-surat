@@ -10,4 +10,4 @@ Aplikasi ini untuk mengelola pencatatan surat masuk dan surat keluar. Terdapat b
 - Multilevel user
 - Fitur backup dan restore database
 
-NB: Sewaktu-waktu akan berubah WKWK
+NB: Sewaktu-waktu akan berubah source code.
