@@ -9,7 +9,7 @@
 
 <head>
 
-    <title>SIMENSA</title>
+    <title>Sistem Manajemen Surat</title>
 
     <!-- Meta START -->
     <meta charset="utf-8" />

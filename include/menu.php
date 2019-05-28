@@ -5,7 +5,7 @@
 
 <nav class="blue-grey darken-1">
     <div class="nav-wrapper">
-        <a href="./" class="brand-logo center hide-on-large-only"><i class="material-icons md-36">school</i> WMS</a>
+        <a href="./" class="brand-logo center hide-on-large-only"><i class="material-icons md-36">school</i> SIMENSA</a>
         <ul id="slide-out" class="side-nav" data-simplebar-direction="vertical">
             <li class="no-padding">
                 <div class="logo-side center blue-grey darken-3">
@@ -18,14 +18,14 @@
                                 echo '<img class="logoside" src="./asset/img/logo.png"/>';
                             }
                             if(!empty($data['nama'])){
-                                echo '<h5 class="smk-side">'.$data['nama'].'</h5>';
+                                echo '<h5 class="ins-side">'.$data['nama'].'</h5>';
                             } else {
-                                echo '<h5 class="smk-side">SMK  Al - Husna Loceret Nganjuk</h5>';
+                                echo '<h5 class="ins-side">MI AL IMAN Banaran</h5>';
                             }
                             if(!empty($data['alamat'])){
                                 echo '<p class="description-side">'.$data['alamat'].'</p>';
                             } else {
-                                echo '<p class="description-side">Jalan Raya Kediri Gg. Kwagean No. 04 Loceret Telp/Fax. (0358) 329806 Nganjuk 64471</p>';
+                                echo '<p class="description-side">Jl. Taman Siswa No. 105 Banaran, Semarang</p>';
                             }
                         }
                     ?>
@@ -132,7 +132,7 @@
 
         <!-- Menu on large screen START -->
         <ul class="center hide-on-med-and-down" id="nv">
-            <li><a href="./" class="ams hide-on-med-and-down"><i class="material-icons md-36">school</i> WMS</a></li>
+            <li><a href="./" class="ams hide-on-med-and-down"><i class="material-icons md-36">school</i> SIMENSA</a></li>
             <li><div class="grs"></></li>
             <li><a href="./"><i class="material-icons"></i>&nbsp; Beranda</a></li>
             <?php
