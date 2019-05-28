@@ -150,7 +150,7 @@
             </div>
 
         <?php
-            if($_SESSION['id_user'] == 1 || $_SESSION['admin'] == 2){?>
+            if($_SESSION['id_user'] == 2 || $_SESSION['admin'] == 2){?>
             <div class="col s12 m4">
                 <div class="card blue accent-2">
                     <div class="card-content">
